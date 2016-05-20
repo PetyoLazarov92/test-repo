@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 name = Ëàçàðîâ, size = 185, email = plazarov92@gmail.com
+=======
+name = ÐŸÐµÑ‚ÑŠÐ¾ Ð›Ð°Ð·Ð°Ñ€Ð¾Ð², size = 185, email = plazarov92@gmail.com
+>>>>>>> origin/master
